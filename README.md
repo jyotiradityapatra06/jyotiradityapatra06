@@ -1,5 +1,5 @@
 #  About Me:
- I’m currently working on  <br>Building AI-powered applications, full-stack projects, and exploring Machine Learning solutions.<br><br> I’m looking to collaborate on  <br>Open-source projects, AI/ML applications, and impactful software products.<br><br> I’m currently learning  <br>Data Structures & Algorithms, Machine Learning, System Design, and Cloud Deployment.<br><br>💬 Ask me about  <br>Full-stack development, AI/ML projects, Python, React, Next.js, FastAPI, and AI .<br><br> Fun fact  <br>I enjoy turning ideas into real-world applications and constantly experimenting with new technologies.
+ I’m currently working on  <br>Building AI-powered applications, full-stack projects, and exploring Machine Learning solutions.<br><br> I’m looking to collaborate on  <br>Open-source projects, AI/ML applications, and impactful software products.<br><br> I’m currently learning  <br>Data Structures & Algorithms, Machine Learning, System Design, and Cloud Deployment.<br><br> Ask me about  <br>Full-stack development, AI/ML projects, Python, React, Next.js, FastAPI, and AI .<br><br> Fun fact  <br>I enjoy turning ideas into real-world applications and constantly experimenting with new technologies.
 
 
 ## 🌐 Socials:
